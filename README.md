@@ -1,15 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anish Kumar
+Hi! I am Anish Kumar  👋 
 ===================================================================================================================================
 
-Student . Developer
+## Data Science Enthusiast
 -----------------
 
-As a highly motivated and academically accomplished Computer Science student with a profound passion for Data Science, I am eager to leverage my strong conceptual understanding and technical skills to contribute to innovative data-driven solutions. With a track record of academic excellence and a genuine enthusiasm for exploring the vast world of data, I am committed to making a meaningful impact in the field of Computer Science.
+As a highly motivated and academically accomplished Computer Science student with a profound passion for Data Science, I am eager to leverage my strong conceptual understanding and technical skills to contribute to innovative data-driven solutions and make a meaningful impact in the field of Computer Science.
 
-* 🌍  I'm based in Hyderabad, India
-* ✉️  You can contact me at [anishkumar2002.k@gmail.com](mailto:anishkumar2002.k@gmail.com)
-* 🧠  I'm learning to change
-* 🤝  I'm open to collaborating on interesting projects
+* 🧠  I'm currently expanding my  proficiency in advanced machine learning techniques, focusing on enhancing my expertise in algorithms, model architectures, and their practical       applications.
+* 🤝  I'm open to collaborating in cutting-edge AI research projects, where my skills in machine learning can contribute to innovative solutions and advancements.
+* 💼  I've had the opportunity to work on many exciting projects in various companies such as PayPal, Indian Space Research Organisation and Larsen & Toubro. 
 
 ### Skills
 
@@ -19,4 +18,4 @@ As a highly motivated and academically accomplished Computer Science student wit
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/master_ak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/anishkumarkallepalli" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/anishkumarkallepalli" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@masteranish8842" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/anishkumarkallepalli" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/anishkumarkallepalli" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
