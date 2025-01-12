@@ -1,14 +1,16 @@
 Hi! I am Anish Kumar  👋 
 ===================================================================================================================================
 
-## Data Science Enthusiast
+## Entrepreneur | AI Innovator | Computer Science Enthusiast
 -----------------
 
-As a highly motivated and academically accomplished Computer Science student with a profound passion for Data Science, I am eager to leverage my strong conceptual understanding and technical skills to contribute to innovative data-driven solutions and make a meaningful impact in the field of Computer Science.
+As a Computer Science graduate student at UCSD, I’ve combined my technical expertise in AI with an entrepreneurial spirit to create impactful solutions. My journey in technology is driven by a passion for innovation, human connection, and making a meaningful difference in the world.
 
-* 🧠  I'm currently expanding my  proficiency in advanced machine learning techniques, focusing on enhancing my expertise in algorithms, model architectures, and their practical       applications.
-* 🤝  I'm open to collaborating in cutting-edge AI research projects, where my skills in machine learning can contribute to innovative solutions and advancements.
-* 💼  I've had the opportunity to work on many exciting projects in various companies such as PayPal, Indian Space Research Organisation and Larsen & Toubro. 
+About Me:
+* 🛠 Founder of EchoHeart: Currently building a groundbreaking AI startup that preserves the voices of loved ones, creating meaningful emotional connections across time and distance.
+* 🎓 Academic Excellence: Pursuing my Master’s in Computer Science at UCSD, ranked #3 globally for CS, where I specialize in AI and machine learning.
+* 🏆 Accolades: Awarded the prestigious Golden Visa for exceptional student contributions and named 6-Ace Scholar for outstanding academic and extracurricular achievements.
+* 🌟 Blackstone LaunchPad Member: Selected to be part of this prestigious accelerator program, making strides in market research, customer engagement, and early product development.
 
 ### Skills
 
