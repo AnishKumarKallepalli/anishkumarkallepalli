@@ -2,7 +2,6 @@ Hi! I am Anish Kumar  👋
 ===================================================================================================================================
 
 ## Entrepreneur | AI Innovator | Computer Science Enthusiast
------------------
 
 As a Computer Science graduate student at UCSD, I’ve combined my technical expertise in AI with an entrepreneurial spirit to create impactful solutions. My journey in technology is driven by a passion for innovation, human connection, and making a meaningful difference in the world.
 
